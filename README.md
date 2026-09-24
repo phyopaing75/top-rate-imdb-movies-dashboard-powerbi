@@ -17,7 +17,7 @@ Explore the interactive Power BI report directly in your browser:
 - Total Box Office: $53.91 Billion
 - Total Budget: $8.60 Billion
 - Total Profit: $45.31 Billion
-- Overall Portfolio ROI: 527.01%
+- Overall ROI: 527.01%
 
 ---
 
@@ -38,5 +38,5 @@ Explore the interactive Power BI report directly in your browser:
 - Transformations: Power Query (data cleaning, type casting, handling currency conversions, handling missing values)
 - Calculated Measures (DAX):
   - Total Profit = [Total Box Office] - [Total Budget]
-  - Portfolio ROI = DIVIDE([Total Profit], [Total Budget], 0)
+  - ROI = DIVIDE([Total Profit], [Total Budget], 0)
   - Runtime Grouping: Short, Normal, Long
